@@ -47,6 +47,22 @@
       "type": "outcome",
       "created_at": "2023-07-03T03:36:00.985Z",
       "id": 6
+    },
+    {
+      "description": "Walmart",
+      "price": 150,
+      "category": "Mercado ",
+      "type": "outcome",
+      "created_at": "2023-07-03T21:26:29.734Z",
+      "id": 7
+    },
+    {
+      "description": "Walmart",
+      "price": 200,
+      "category": "Mercado",
+      "type": "outcome",
+      "created_at": "2023-07-03T21:26:56.966Z",
+      "id": 8
     }
   ]
 }
